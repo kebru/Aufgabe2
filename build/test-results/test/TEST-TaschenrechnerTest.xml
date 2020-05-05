@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TaschenrechnerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-05-05T15:56:12" hostname="DESKTOP-JUV8214" time="0.025">
+  <properties/>
+  <testcase name="constructor()" classname="TaschenrechnerTest" time="0.011"/>
+  <testcase name="addInt()" classname="TaschenrechnerTest" time="0.001"/>
+  <testcase name="divInt()" classname="TaschenrechnerTest" time="0.002"/>
+  <testcase name="subInt()" classname="TaschenrechnerTest" time="0.001"/>
+  <testcase name="subDouble()" classname="TaschenrechnerTest" time="0.0"/>
+  <testcase name="multiDouble()" classname="TaschenrechnerTest" time="0.0"/>
+  <testcase name="addDouble()" classname="TaschenrechnerTest" time="0.001"/>
+  <testcase name="multiInt()" classname="TaschenrechnerTest" time="0.001"/>
+  <testcase name="divDouble()" classname="TaschenrechnerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
